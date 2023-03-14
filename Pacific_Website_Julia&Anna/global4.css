@@ -1,0 +1,134 @@
+@charset "UTF-8";
+#wrapper {
+	width: 990px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position: relative;
+	list-style-type: none;
+}
+header {
+	height: 250px;
+	width: 960px;
+	padding-bottom: 0px;
+}
+	h2 {
+	color: #F6784A;
+	text-transform: none;
+	font-size: 2em;
+	letter-spacing: 0em;
+	font-family: 'Climate Crisis', cursive;
+	padding-top: 3px;
+	padding-left: 0px;
+	padding-bottom: 20px;
+	position: relative;	
+}
+
+p{
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 13px;
+color: #FFF;
+padding-top: 0px;
+padding-left: 0px;
+padding-right: 0px;
+text-align: left;
+padding-bottom: 50px;
+	
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+	 
+}
+.image2 {
+	padding-top: 90px;
+	padding-right: 15px
+	
+	
+}
+
+img {
+    max-width: 105%
+	
+}
+
+
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+h1 {
+	color: #FF0000;
+	text-transform: none;
+	font-size: 4em;
+	letter-spacing: 0em;
+	font-family: 'Climate Crisis', cursive;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-bottom: 0px;
+	position: relative;	
+}
+nav {
+	height: 40px;
+	width: 960px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color: #FFF;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+h3 {
+	color: #FFF4e9;
+	text-transform: none;
+	font-size: 3em;
+	letter-spacing: 0em;
+	font-family: 'Climate Crisis', cursive;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-bottom: 0px;
+	position: relative;	
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+box-sizing: border-box;
+}
+
+a:link {
+	color: #FF7f50;
+	text-decoration: none;
+}
+a:visited {
+	color: #fccb06;
+}
+a:hover {
+	color: #F96;
+}
+a:active {
+	color: #FFF;
+}
+li {
+	float: left;
+	width: 230px;
+	text-align: center;
+}
+ul {
+	width: 950px;	margin: auto;
+	list-style: none;
+	background-color: #224191;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 10px;
+}

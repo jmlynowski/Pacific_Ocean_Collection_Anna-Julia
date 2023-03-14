@@ -1,0 +1,113 @@
+@charset "UTF-8";
+#wrapper {
+	width: 990px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position: relative;
+	list-style-type: none;
+}
+header {
+	height: 250px;
+	width: 960px;
+	padding-bottom: 0px;
+}
+	h1 {
+	color: #F6784A;
+	text-transform: none;
+	font-size: 2.5em;
+	letter-spacing: 0em;
+	font-family: 'Climate Crisis', cursive;
+	padding-top: 0px;
+	padding-left: 50px;
+	position: relative;
+	
+}
+section {
+    position: relative;
+    top: -100px;
+  
+}
+p{
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 14px;
+color: #FFF;
+padding-top: 0px;
+padding-left: 50px;
+padding-right: 50px;
+text-align: center;
+padding-bottom: 50px;
+	
+	
+}
+
+aside {
+	font-family: 'Pacifico', cursive;
+	font-size: 14px;
+	line-height: 20px;
+	color: #FFF;
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	position: relative;
+	height: 600px;
+}
+nav {
+	height: 40px;
+	width: 960px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color: #FFF;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+h2 {
+	color: #00008B;
+	text-transform: none;
+	font-size: 2em;
+	letter-spacing: 0em;
+	font-family: 'Climate Crisis', cursive;
+	padding-top: 0px;
+	padding-left: 50px;
+	padding-right: 0px;
+	position: relative;
+}
+ol {
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 14px;
+color: #FFF;
+padding-top: 0px;
+padding-left: 50px;
+padding-right: 50px;
+text-align: center;
+padding-bottom: 50px;	
+}
+a:link {
+	color: #FF7f50;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fccb06;
+}
+a:hover {
+	color: #F96;
+}
+a:active {
+	color: #FFF;
+}
+li {
+	float: left;
+	width: 230px;
+	text-align: center;
+}
+ul {
+	width: 950px;	margin: auto;
+	list-style: none;
+	background-color: #224191;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 10px;
+}
+
+
